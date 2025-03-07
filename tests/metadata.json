@@ -1,0 +1,32 @@
+{
+  "name": "My Token",
+  "symbol": "MTK",
+  "description": "This is an example token created on Solana.",
+  "seller_fee_basis_points": 500,
+  "image": "https://commons.wikimedia.org/wiki/File:PNG_Test.png#/media/File:PNG_Test.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://example.com/my-token-image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "YourCreatorPublicKeyHere",
+        "share": 100
+      }
+    ]
+  }
+}

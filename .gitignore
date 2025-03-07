@@ -1,0 +1,6 @@
+.env
+.tool-versions
+.anchor
+id.json
+target
+node_modules

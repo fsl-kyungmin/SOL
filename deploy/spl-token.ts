@@ -69,7 +69,7 @@ async function registerMetaData(tokenMintAccount: PublicKey) {
   const metadataData = {
     name: "T-Game Club",
     symbol: "T-GC",
-    uri: "https://arweave.net/1234",
+    uri: "https://acbs-test.s3.ap-northeast-2.amazonaws.com/metadata.json",
     sellerFeeBasisPoints: 0,
     creators: null,
     collection: null,

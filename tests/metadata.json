@@ -1,32 +1,15 @@
 {
-  "name": "My Token",
-  "symbol": "MTK",
-  "description": "This is an example token created on Solana.",
-  "seller_fee_basis_points": 500,
-  "image": "https://commons.wikimedia.org/wiki/File:PNG_Test.png#/media/File:PNG_Test.png",
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Green"
-    }
-  ],
+  "name": "T-GameClub",
+  "symbol": "T-GC",
+  "description": "TEST",
+  "image": "https://pbs.twimg.com/profile_images/1888372099896459264/vf70q67h_400x400.jpg",
   "properties": {
     "files": [
       {
-        "uri": "https://example.com/my-token-image.png",
+        "uri": "https://pbs.twimg.com/profile_images/1888372099896459264/vf70q67h_400x400.jpg",
         "type": "image/png"
       }
     ],
-    "category": "image",
-    "creators": [
-      {
-        "address": "YourCreatorPublicKeyHere",
-        "share": 100
-      }
-    ]
+    "category": "image"
   }
 }
